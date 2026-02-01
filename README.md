@@ -132,14 +132,12 @@ Empty lines are automatically skipped.
 - Only suspend BitLocker when necessary (e.g., BIOS updates, hardware changes)
 - All operations are logged for audit purposes
 
-## License
-
-This project is provided as-is for IT administration purposes.
-
 ## Contributing
 
 Feel free to submit issues or pull requests for improvements.
 
-## Author
+## 📜 License
 
-IT Administrator
+This project is licensed under the **[MIT License](LICENSE)** - feel free to use, modify, and distribute.
+
+---
